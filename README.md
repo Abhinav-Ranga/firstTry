@@ -1,2 +1,2 @@
 # firstTry
-using github for the first time
+using github for the first time.
